@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url(menu.css);
+
+:root{
+    --preto-logo: #3A404E;
+    --cinza-paragrafos: #667085;
+    --fundo: #FFFFFF;
+    --botao: #8E2424;
+
+    --fonte: 'Inter', sans-serif;
+
+}
+
+.body{
+    width: 0;
+    height: 0;
+}
+
+
